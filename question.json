@@ -1,0 +1,38 @@
+[
+    {
+        "questionNumber": "1",
+       "question" : "What is the color of sky?",
+       "optionA" : "red",
+       "optionB" : "green",
+       "optionC" : "blue",
+       "optionD" : "yellow",
+       "correctOption" : "blue"
+    },
+    {
+        "questionNumber": "2",
+        "question" : "What is the color of grass?",
+       "optionA" : "red",
+       "optionB" : "green",
+       "optionC" : "blue",
+       "optionD" : "yellow",
+       "correctOption" : "green"
+    },
+    {
+        "questionNumber": "3",
+        "question" : "What is the color of banana?",
+       "optionA" : "red",
+       "optionB" : "green",
+       "optionC" : "blue",
+       "optionD" : "yellow",
+       "correctOption" : "yellow"
+    },
+    {
+        "questionNumber": "4",
+        "question" : "What is the color of apple?",
+       "optionA" : "red",
+       "optionB" : "green",
+       "optionC" : "blue",
+       "optionD" : "yellow",
+       "correctOption" : "red"
+    }
+]
